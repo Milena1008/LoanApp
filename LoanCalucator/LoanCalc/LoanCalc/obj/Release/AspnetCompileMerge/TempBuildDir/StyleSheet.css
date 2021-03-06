@@ -1,0 +1,81 @@
+﻿
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    line-height:1.9em;
+    vertical-align: baseline;
+    text-decoration:none;
+    outline: 0;
+
+
+}
+#Button1{
+    border-left-width: 50px;
+}
+
+body {
+   background-image: url('img/money.jpg');
+
+   background-position:auto;
+
+  
+  
+}
+#theme-stylesheet{
+    width: auto;
+    height:auto;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+#Button1{
+    color:white;
+background-color: #555;
+font-weight: 400;
+    margin-left: 1px;
+    text-align: right;
+}
+h1{
+    position: center;
+}
+
+
+[data-animate] {
+  visibility: visible;
+}
+
+textarea {	
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;	
+    width: 100%;
+    }
+
+.container{
+    width:1283px;
+}
+.howmuch{
+    width:auto;
+    position:auto;
+    left: 0px;
+}
+
+#HowMuch{
+    position:auto;
+    text-align: left;
+}
+.interests{
+    width:auto;
+    position:auto;
+    left: 0px;
+}
+#Interests{
+    width:auto;
+    position:auto;
+    left: 0px;
+}
+
